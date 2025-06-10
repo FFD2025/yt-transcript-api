@@ -1,4 +1,4 @@
 requests
 defusedxml>=0.7.1
 flask
-
+gunicorn
